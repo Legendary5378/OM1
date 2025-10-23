@@ -159,3 +159,8 @@ Please make sure to read the [Contributing Guide](./CONTRIBUTING.md) before maki
 ## License
 
 This project is licensed under the terms of the MIT License, which is a permissive free software license that allows users to freely use, modify, and distribute the software. The MIT License is a widely used and well-established license that is known for its simplicity and flexibility. By using the MIT License, this project aims to encourage collaboration, modification, and distribution of the software.
+---
+### 💡 Community Note
+OpenMind is a great decentralized AI project.  
+This section was added by **@Legendary5378** as a contribution.
+
